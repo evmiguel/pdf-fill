@@ -1,7 +1,10 @@
 ## Installation
 This script heavily relies on the [pdf-fill-form](https://www.npmjs.com/package/pdf-fill-form). Please install the OS dependencies listed in the npm project: https://www.npmjs.com/package/pdf-fill-form#installation
 
-Once the dependencies are installed, 
+Once the dependencies are installed, run
+```
+npm install
+```
 
 ## Running the script
 ```
